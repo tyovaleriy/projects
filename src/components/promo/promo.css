@@ -1,0 +1,49 @@
+.promo {
+  background: url("../../img/burger.jpg");
+  padding: 100px 0;
+  color: #fff;
+  text-align: center;
+}
+
+.wrapper {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 40px;
+  border-radius: 20px;
+}
+
+.promo_title h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.promo_title h2 {
+  font-size: 24px;
+  color: #ffcc00;
+}
+
+.promo_text {
+  margin-top: 20px;
+}
+
+.promo_text p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 30px;
+  background-color: #ffcc00;
+  padding: 15px 30px;
+  color: #000;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+.btn:hover {
+  background-color: #e6b800;
+}
